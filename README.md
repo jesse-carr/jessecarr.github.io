@@ -1,4 +1,4 @@
-# jessecarr.github.io
+# Jesse Carr
 This page showcases all of my projects and work
 
 ## Coursework
