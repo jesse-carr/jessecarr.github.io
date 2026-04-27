@@ -9,4 +9,4 @@ This page showcases all of my projects and work
 
 [Lab 7: Stream Stacks](http://127.0.0.1:5500/stream-stacks/index.html).
 
-[Lab 8: Responsive Visualizations](http://127.0.0.1:5500/responsive/index.html).
+[Lab 8: Graphs & Scrollytelling](http://127.0.0.1:5500/index.html).
