@@ -12,4 +12,4 @@ This page showcases all of my projects and work
 ## CSC 362 Final Project
 - [Digital Visualization](https://eliejerjees.github.io/data-viz-final/).
 - [Personal Reflection](https://docs.google.com/document/d/1ExGl3zUjNPI8wQelpFa26oLUr8lc6jGuW7nycbRMX9c/edit?usp=sharing).
-- [Final Project Write Up](https://docs.google.com/document/d/11GDKp80wMmwjCw2U9MChJYD2bxgkYh6j7kIRVKbuMx8/edit?tab=t.0)
+- [Final Project Write Up](https://docs.google.com/document/d/11GDKp80wMmwjCw2U9MChJYD2bxgkYh6j7kIRVKbuMx8/edit?tab=t.0).
