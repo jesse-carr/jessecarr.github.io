@@ -10,4 +10,6 @@ This page showcases all of my projects and work
 - [Lab 8: Graphs & Scrollytelling](https://jesse-carr.github.io/csc362/lab8/responsive/).
 
 ## CSC 362 Final Project
-- [Digital Visualization](https://jesse-carr.github.io/csc362/FinalProject/).
+- [Digital Visualization](https://eliejerjees.github.io/data-viz-final/).
+- [Personal Reflection](https://docs.google.com/document/d/1ExGl3zUjNPI8wQelpFa26oLUr8lc6jGuW7nycbRMX9c/edit?usp=sharing).
+- [Final Project Write Up](https://docs.google.com/document/d/11GDKp80wMmwjCw2U9MChJYD2bxgkYh6j7kIRVKbuMx8/edit?tab=t.0)
